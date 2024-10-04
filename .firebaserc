@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "next-firebase-mui",
+    "prod": "next-firebase-mui",
+    "test": "next-firebase-mui-test"
+  }
+}
